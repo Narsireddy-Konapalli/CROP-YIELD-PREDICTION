@@ -1,2 +1,3 @@
 # CROP-YIELD-PREDICTION
-https://github.com/user-attachments/assets/ba984e9e-cfa8-4ba5-aded-d4fcefbdb166
+![crop](https://github.com/user-attachments/assets/366483ec-972e-48de-85d0-d2ef6e05818a)
+
