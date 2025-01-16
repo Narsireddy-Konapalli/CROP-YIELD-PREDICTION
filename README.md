@@ -86,7 +86,8 @@ The dataset used for predicting crop yield contains the following features:
    - The app will display the predicted crop yield based on the input values.
 
 ## Example Interface
-![crop](https://github.com/user-attachments/assets/366483ec-972e-48de-85d0-d2ef6e05818a)
+![crop](https://github.com/user-attachments/assets/366483ec-972e-48de-85d0-d2ef6e05818a)<br>
+
 The Streamlit interface allows users to input the following features:
 
 - **Temperature (°C)**
@@ -107,9 +108,6 @@ GridSearchCV was used to tune the hyperparameters of the RandomForest Regressor.
 - `min_samples_split`: The minimum number of samples required to split an internal node.
 - `min_samples_leaf`: The minimum number of samples required to be at a leaf node.
 
-## Deployment
-
-You can also run this project on your local machine for testing, or deploy it using services such as Heroku or Hugging Face Spaces for easy access.
 
 ## Acknowledgments
 
@@ -120,14 +118,7 @@ You can also run this project on your local machine for testing, or deploy it us
 
 ---
 
-### Requirements.txt
 
-```txt
-streamlit
-pandas
-scikit-learn
-numpy
-matplotlib
 
 
 
