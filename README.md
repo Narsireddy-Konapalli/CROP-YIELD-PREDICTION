@@ -1,4 +1,4 @@
-# Crop Yield Prediction using RandomForest Regressor and GridSearchCV
+# Crop Yield Prediction
 
 This project aims to predict crop yield based on environmental factors such as temperature, rainfall, humidity, soil type, weather condition, and crop type. The model used for this task is a RandomForest Regressor, and it has been hyperparameter-tuned using GridSearchCV for better performance. The interface is built using Streamlit, allowing users to input data and predict crop yield easily.
 
@@ -16,7 +16,7 @@ Follow the steps below to set up and run the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/crop-yield-prediction.git
+    git clone https://github.com/Narsireddy-Konapalli/CROP-YIELD-PREDICTION.git
     cd crop-yield-prediction
     ```
 
@@ -85,7 +85,7 @@ The dataset used for predicting crop yield contains the following features:
    - Input the values for temperature, rainfall, humidity, soil type, weather condition, and crop type.
    - The app will display the predicted crop yield based on the input values.
 
-## Example Interface
+## Interface
 ![crop](https://github.com/user-attachments/assets/366483ec-972e-48de-85d0-d2ef6e05818a)<br>
 
 The Streamlit interface allows users to input the following features:
